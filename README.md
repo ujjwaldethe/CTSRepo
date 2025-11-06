@@ -1,1 +1,2 @@
-[![Watch the demo](thumbnail.png)](https://github.com/yourusername/yourrepo/blob/main/videoplayback.mp4)
+## Demo Video
+[click](videoplayback.mp4)
